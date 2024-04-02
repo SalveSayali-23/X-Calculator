@@ -13,9 +13,10 @@
   }
 }
 
-.dislay{
+.display{
   padding-bottom: 20px;
   font-weight: bolder;
+  //font-size: 2rem;
 }
 
 .calculator {
