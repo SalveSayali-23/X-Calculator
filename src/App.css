@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+ 
+  input {
+    height: 20px;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+}
+
+.dislay{
+  padding-bottom: 20px;
+  font-weight: bolder;
+}
+
+.calculator {
+  height: 600px;
+  width: 300px;
+  bottom: 20px;
+}
+
+button {
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+}
+.buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
